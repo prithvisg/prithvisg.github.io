@@ -14,7 +14,7 @@ Apart from research, I take deep interest in music and reading. I am always look
 
 If you have any questions about my research or want to collaboarate on anything, feel free to reach out to me via email.
 
-##Recent News
+## Recent News
 - *April 2023*: Will be spending Summer 2023 at Bay Area, California working with the AI Privacy and Governance team at [Meta](https://about.meta.com/)
 - *March 2023*: Gave a Lecture on Turing Machines at [UIC](https://uic.edu/) 
 - *May 2022*: Interning at [Meta](https://about.meta.com/) working with the AI infrastructure team.
