@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Lead Instructor"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+permalink: 
+venue: "University of Illinois at Chicago, Department of Computer Science"
 date: 2015-01-01
-location: "City, Country"
+location: "Chicago, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught Mathematical Foundations of Computing to undergraduate students. My responsibilities included giving lectures, exams, grading and giving feedback to the students.
 
 Heading 1
 ======
