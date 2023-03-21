@@ -7,7 +7,6 @@ venue: "University of Illinois at Chicago, Department of Computer Science"
 date: 2018-08-15
 location: "Chicago, USA"
 ---
-August'18 - Present
 
 Instructor: [Prof. Gonzalo Bello Lander](https://cs.uic.edu/profiles/gonzalo-bello/) / [Prof. Evan McCarty](https://cs.uic.edu/profiles/evan-mccarty/) / [Prof. Robert Sloan](https://cs.uic.edu/profiles/robert-sloan/)
 
