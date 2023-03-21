@@ -3,7 +3,7 @@ title: "Source anonymization of digital images: a counter–forensic attack on P
 collection: publications
 permalink: 
 excerpt: 
-date: 2017
+date: 2017-03-01
 venue: 'Annual Conference on Digital Forensics, Security and Law'
 paperurl: 'https://commons.erau.edu/cgi/viewcontent.cgi?article=1269&context=adfsl'
 citation: 
