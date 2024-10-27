@@ -9,4 +9,4 @@ redirect_from:
 
 <iframe src="/files/PrithResumeFall2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/PrithResumeFall2023.pdf).
+You can download a PDF copy of my CV [here](/files/Prith_CV.pdf).
