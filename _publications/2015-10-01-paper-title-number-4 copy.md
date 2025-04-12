@@ -1,14 +1,14 @@
 ---
-title: "Source anonymization of digital images: a counter–forensic attack on PRNU based source identification techniques"
+title: "Finding Influential Cores via Normalized Ricci Flows in Directed and Undirected Hypergraphs with Applications"
 collection: publications
 permalink: 
 excerpt: 
-date: 2017-05-15
-venue: 'Annual Conference on Digital Forensics, Security and Law'
-paperurl: 'https://commons.erau.edu/cgi/viewcontent.cgi?article=1269&context=adfsl'
+date: 2025-04-10
+venue: 'Physical Review E'
+paperurl: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2502.16382'
 citation: 
 ---
 
-A lot of photographers and human rights advocates need to hide their identity while sharing their images on the internet. Hence, source-anonymization of digital images has become a critical issue in the present digital age. The current literature contains a few digital forensic techniques for" source-identification" of digital images, one of the most efficient of them being Photo-Response Non-Uniformity (PRNU) sensor noise pattern based source detection. PRNU noise pattern being unique to every digital camera, such techniques prove to be highly robust way of sourceidentification. In this paper, we propose a counter-forensic technique to mislead this PRNU sensor noise pattern based source-identification, by using a median filter to suppress PRNU noise in an image, iteratively. Our experimental results prove that the proposed method achieves considerably higher degree of source anonymity, measured as an inverse of Peak-to-Correlation Energy (PCE) ratio, as compared to the state-of-the-art.
+Many biological and social systems are naturally represented as edge-weighted directed or undirected hypergraphs since they exhibit group interactions involving three or more system units as opposed to pairwise interactions that can be incorporated in graph-theoretic representations. However, finding influential cores in hypergraphs is still not as extensively studied as their graph-theoretic counter-parts. To this end, we develop and implement a hypergraph-curvature guided discrete time diffusion process with suitable topological surgeries and edge-weight re-normalization procedures for both undirected and directed weighted hypergraphs to find influential cores. We successfully apply our framework for directed hypergraphs to seven metabolic hypergraphs and our framework for undirected hypergraphs to two social (co-authorship) hypergraphs to find influential cores, thereby demonstrating the practical feasibility of our approach. In addition, we prove a theorem showing that a certain edge weight re-normalization procedure in a prior research work for Ricci flows for edge-weighted graphs has the undesirable outcome of modifying the edge-weights to negative numbers, thereby rendering the procedure impossible to use. To the best of our knowledge, this seems to be one of the first articles that formulates algorithmic approaches for finding core(s) of (weighted or unweighted) directed hypergraphs.
 
-[Download paper here](https://commons.erau.edu/cgi/viewcontent.cgi?article=1269&context=adfsl)
+[Download paper here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2502.16382)
