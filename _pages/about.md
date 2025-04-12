@@ -15,6 +15,7 @@ Outside of research, I'm passionate about music and reading. I'm always on the l
 If you have any questions about my research or want to collaboarate on anything, feel free to reach out to me via email.
 
 ## Recent News
+- *April 2025*: Our paper on *Finding Influential Cores via Normalized Ricci Flows in Directed and Undirected Hypergraphs with Applications* has been accepted to appear on [*Physical Review E*](https://journals.aps.org/pre/)!
 - *December 2024*: I’m excited to share that I'll be joining [Meta](https://about.meta.com/) in New York as a Research Scientist!
 - *October 2024*: Excited to share that I've completed my PhD in Computer Science at [UIC](https://uic.edu/). 
 - *August 2023*: Finished my internship at [Meta](https://about.meta.com/). Built an internal tool to track all the Deployed ML Models used at Meta for better Privacy and Governance.
