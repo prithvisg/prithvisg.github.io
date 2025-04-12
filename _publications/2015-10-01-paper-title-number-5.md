@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: 
 date: 2025-04-11
-venue: 'Convex and Variational Analysis with Applications: In Honor of Terry Rockafellar's 90th Birthday, Panos M. Pardalos and Themistocles M. Rassias (editors), Springer'
+venue: 'Convex and Variational Analysis with Applications: In Honor of Terry Rockafellar's 90th Birthday, Springer'
 paperurl: 'https://bdasgup.github.io/resume/publ/papers/survey-paper-algorithms-submitted.pdf'
 citation: 
 ---
