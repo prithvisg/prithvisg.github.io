@@ -10,4 +10,4 @@ location: "Chicago, USA"
 
 Instructor: [Prof. Robert Sloan](https://cs.uic.edu/profiles/robert-sloan/)
 
-Teaching assistant for Introduction to Programming with Python (CS 111) in Fall 2018. Responsibilities included leading lab discussions, grading, and proctoring exams.
+My first teaching assignment at UIC: teaching assistant for Introduction to Programming with Python (CS 111) in Fall 2018, an intro-level course for students writing their first lines of code. Responsibilities included leading lab discussions, holding office hours to help students debug their programs, grading assignments, and proctoring exams.
