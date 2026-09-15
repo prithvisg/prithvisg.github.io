@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prith Sengupta"
 title_separator          : "-"
 name                     : &name "Prith Sengupta"
-description              : &description "personal description"
+description              : &description "Postdoctoral Fellow and Teaching Faculty at Carnegie Mellon University's Heinz College, researching network science and curvature-based methods, with a lifelong interest in Eastern and Western philosophy."
 url                      : https://prithvisg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prithvisg/prithvisg.github.io"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "/prithviraj-sengupta/"
+  linkedin         : "prithviraj-sengupta"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
