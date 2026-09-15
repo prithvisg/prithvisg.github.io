@@ -18,7 +18,9 @@ If you have any questions about my research or want to collaboarate on anything,
 - *May 2026*: Our book chapter [*On Analyzing Networks via Curvature Measures: Review of Methodologies and Applications*](https://doi.org/10.1007/978-3-032-07860-5_1) has been published in [*Convex and Variational Analysis with Applications: In Honor of Terry Rockafellar's 90th Birthday*](https://link.springer.com/book/9783032078599), edited by Panos M. Pardalos and Themistocles M. Rassias, Springer!
 - *April 2025*: Our paper on [*Finding Influential Cores via Normalized Ricci Flows in Directed and Undirected Hypergraphs with Applications*](https://arxiv.org/pdf/2502.16382) has been accepted to appear on [*Physical Review E*](https://journals.aps.org/pre/)!
 - *December 2024*: I’m excited to share that I'll be joining [Meta](https://about.meta.com/) in New York as a Research Scientist!
-- *October 2024*: Excited to share that I've completed my PhD in Computer Science at [UIC](https://uic.edu/). 
+- *October 2024*: Excited to share that I've completed my PhD in Computer Science at [UIC](https://uic.edu/)! My dissertation, [*Ricci Curvature and Ricci Flow for Graphs and Hypergraphs*](https://indigo.uic.edu/ndownloader/files/54497408), explored discretizing notions of curvature and curvature-driven flows on graphs and hypergraphs, with applications to identifying influential structures in real-world networks. I was advised by [Dr. Bhaskar DasGupta](https://bdasgup.github.io/).
+
+## Older News
 - *August 2023*: Finished my internship at [Meta](https://about.meta.com/). Built an internal tool to track all the Deployed ML Models used at Meta for better Privacy and Governance.
 - *April 2023*: Will be spending Summer 2023 at Bay Area, California working with the AI Metadata team at [Meta](https://about.meta.com/)
 - *March 2023*: Gave a Lecture on Turing Machines at [UIC](https://uic.edu/) 
